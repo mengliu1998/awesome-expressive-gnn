@@ -27,18 +27,20 @@ Survey
 * [NeurIPS 2021] **Weisfeiler and Lehman Go Cellular: CW Networks** [[Paper]](https://arxiv.org/abs/2106.12575)[[Code]](https://github.com/twitter-research/cwn)
 * [ICASSP 2021] **Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2107.10957)
 * [ICML 2021] **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks** [[Paper]](https://arxiv.org/abs/2103.03212)[[Code]](https://github.com/twitter-research/cwn)
+* [AAAI 2021] **Identity-aware Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2101.10320)
+* [IJCAI 2021] **The Surprising Power of Graph Neural Networks with Random Node Initialization** [[Paper]](https://arxiv.org/abs/2010.01179)[[Code]]
 
 
 
 2020
 ----------
-* [NeurIPS 2020] **Weisfeiler and Leman Go Sparse: Towards Scalable
-Higher-Order Graph Embeddings** [[Paper]](https://arxiv.org/abs/1904.01543)[[Code]](https://github.com/chrsmrrs/sparsewl)
-
+* [NeurIPS 2020] **Weisfeiler and Leman Go Sparse: Towards Scalable Higher-Order Graph Embeddings** [[Paper]](https://arxiv.org/abs/1904.01543)[[Code]](https://github.com/chrsmrrs/sparsewl)
+* [NeurIPS 2020] **Building Powerful and Equivariant Graph Neural Networks with Structural Message-Passing** [[Paper]](https://arxiv.org/abs/2006.15107)[[Code]](https://github.com/cvignac/SMP)
 
 2019
 ----------
 * [NeurIPS 2019] **On the Equivalence between Graph Isomorphism Testing and Function Approximation with GNNs** [[Paper]](https://arxiv.org/abs/1905.12560)[[Code]](https://github.com/leichen2018/Ring-GNN)
 * [NeurIPS 2019] **Provably Powerful Graph Networks** [[Paper]](https://arxiv.org/abs/1905.11136)
+* [ICML 2019] **Relational Pooling for Graph Representations** [[Paper]](https://arxiv.org/abs/1903.02541)[[Code]](https://github.com/PurdueMINDS/RelationalPooling)
 * [AAAI 2019] **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks** [[Paper]](https://arxiv.org/abs/1810.02244)[[Code]](https://github.com/chrsmrrs/k-gnn)
 * [ICLR 2019] **How Powerful are Graph Neural Networks?** [[Paper]](https://arxiv.org/abs/1810.00826)[[Code]](https://github.com/weihua916/powerful-gnns)
