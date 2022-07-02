@@ -15,10 +15,14 @@ Survey
 2022
 ----------
 * [arXiv 2022] **Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2206.02059)
+* [arXiv 2022] **Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**  [[Paper]](https://arxiv.org/abs/2206.11140)
 <br/><br/>
+* [ICML 2022] **A Theoretical Comparison of Graph Neural Network Extensions**  [[Paper]](https://arxiv.org/abs/2201.12884)
+* [ICML 2022] **SpeqNets: Sparsity-aware Permutation-equivariant Graph Networks**  [[Paper]](https://arxiv.org/abs/2203.13913)[[Code]](https://github.com/chrsmrrs/speqnets)
 * [ICLR 2022] **From Stars to Subgraphs: Uplifting Any GNN with Local Structure Awareness**  [[Paper]](https://arxiv.org/abs/2110.03753)[[Code]](https://github.com/LingxiaoShawn/GNNAsKernel)
 * [ICLR 2022] **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**  [[Paper]](https://openreview.net/forum?id=uxgg9o7bI_3)
 * [ICLR 2022] **Equivariant Subgraph Aggregation Networks** [[Paper]](https://arxiv.org/abs/2110.02910)[[Code]](https://github.com/beabevi/esan)
+* [TPAMI] **Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting**  [[Paper]](https://arxiv.org/abs/2006.09252)[[Code]](https://github.com/gbouritsas/graph-substructure-networks)
 
 2021
 ----------
@@ -28,14 +32,18 @@ Survey
 * [ICASSP 2021] **Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2107.10957)
 * [ICML 2021] **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks** [[Paper]](https://arxiv.org/abs/2103.03212)[[Code]](https://github.com/twitter-research/cwn)
 * [AAAI 2021] **Identity-aware Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2101.10320)
-* [IJCAI 2021] **The Surprising Power of Graph Neural Networks with Random Node Initialization** [[Paper]](https://arxiv.org/abs/2010.01179)[[Code]]
+* [IJCAI 2021] **The Surprising Power of Graph Neural Networks with Random Node Initialization** [[Paper]](https://arxiv.org/abs/2010.01179)
+* [SDM 2021] **Random Features Strengthen Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2002.03155)
 
 
 
 2020
 ----------
+* [NeurIPS 2020] **Principal Neighbourhood Aggregation for Graph Nets** [[Paper]](https://arxiv.org/abs/2004.05718)[[Code]](https://github.com/lukecavabarrett/pna)
+* [NeurIPS 2020] **Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning** [[Paper]](https://arxiv.org/abs/2009.00142)[[Code]](https://github.com/snap-stanford/distance-encoding)
 * [NeurIPS 2020] **Weisfeiler and Leman Go Sparse: Towards Scalable Higher-Order Graph Embeddings** [[Paper]](https://arxiv.org/abs/1904.01543)[[Code]](https://github.com/chrsmrrs/sparsewl)
 * [NeurIPS 2020] **Building Powerful and Equivariant Graph Neural Networks with Structural Message-Passing** [[Paper]](https://arxiv.org/abs/2006.15107)[[Code]](https://github.com/cvignac/SMP)
+* [IJCAI 2020] **Coloring Graph Neural Networks for Node Disambiguation** [[Paper]](https://arxiv.org/abs/1912.06058)
 
 2019
 ----------
