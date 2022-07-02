@@ -31,6 +31,7 @@ Survey
 * [NeurIPS 2021] **Weisfeiler and Lehman Go Cellular: CW Networks** [[Paper]](https://arxiv.org/abs/2106.12575)[[Code]](https://github.com/twitter-research/cwn)
 * [ICASSP 2021] **Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2107.10957)
 * [ICML 2021] **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks** [[Paper]](https://arxiv.org/abs/2103.03212)[[Code]](https://github.com/twitter-research/cwn)
+* [ICLR 2021] **On Graph Neural Networks versus Graph-Augmented MLPs** [[Paper]](https://arxiv.org/abs/2010.15116)[[Code]](https://github.com/leichen2018/GNN_vs_GAMLP)
 * [AAAI 2021] **Identity-aware Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2101.10320)
 * [IJCAI 2021] **The Surprising Power of Graph Neural Networks with Random Node Initialization** [[Paper]](https://arxiv.org/abs/2010.01179)
 * [SDM 2021] **Random Features Strengthen Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2002.03155)
@@ -39,6 +40,7 @@ Survey
 
 2020
 ----------
+* [NeurIPS 2020] **Can Graph Neural Networks Count Substructures?** [[Paper]](https://arxiv.org/abs/2002.04025)[[Code]](https://github.com/leichen2018/GNN-Substructure-Counting)
 * [NeurIPS 2020] **Principal Neighbourhood Aggregation for Graph Nets** [[Paper]](https://arxiv.org/abs/2004.05718)[[Code]](https://github.com/lukecavabarrett/pna)
 * [NeurIPS 2020] **Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning** [[Paper]](https://arxiv.org/abs/2009.00142)[[Code]](https://github.com/snap-stanford/distance-encoding)
 * [NeurIPS 2020] **Weisfeiler and Leman Go Sparse: Towards Scalable Higher-Order Graph Embeddings** [[Paper]](https://arxiv.org/abs/1904.01543)[[Code]](https://github.com/chrsmrrs/sparsewl)
