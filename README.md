@@ -45,6 +45,7 @@ Survey
 * [NeurIPS 2020] **Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning** [[Paper]](https://arxiv.org/abs/2009.00142)[[Code]](https://github.com/snap-stanford/distance-encoding)
 * [NeurIPS 2020] **Weisfeiler and Leman Go Sparse: Towards Scalable Higher-Order Graph Embeddings** [[Paper]](https://arxiv.org/abs/1904.01543)[[Code]](https://github.com/chrsmrrs/sparsewl)
 * [NeurIPS 2020] **Building Powerful and Equivariant Graph Neural Networks with Structural Message-Passing** [[Paper]](https://arxiv.org/abs/2006.15107)[[Code]](https://github.com/cvignac/SMP)
+* [ICLR 2020] **What Graph Neural Networks Cannot Learn: Depth vs Width** [[Paper]](https://arxiv.org/abs/1907.03199)
 * [IJCAI 2020] **Coloring Graph Neural Networks for Node Disambiguation** [[Paper]](https://arxiv.org/abs/1912.06058)
 
 2019
