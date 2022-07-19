@@ -16,6 +16,7 @@ Survey
 ----------
 * [arXiv 2022] **Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2206.02059)
 * [arXiv 2022] **Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**  [[Paper]](https://arxiv.org/abs/2206.11140)
+* [arXiv 2022] **Collaboration-Aware Graph Convolutional Networks for Recommendation Systems** [[Paper]](https://arxiv.org/abs/2207.06221)[[Code]](https://github.com/YuWVandy/CAGCN)
 <br/><br/>
 * [ICML 2022] **A Theoretical Comparison of Graph Neural Network Extensions**  [[Paper]](https://arxiv.org/abs/2201.12884)
 * [ICML 2022] **SpeqNets: Sparsity-aware Permutation-equivariant Graph Networks**  [[Paper]](https://arxiv.org/abs/2203.13913)[[Code]](https://github.com/chrsmrrs/speqnets)
