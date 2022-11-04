@@ -17,7 +17,7 @@ Survey
 * [arXiv 2022] **Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2206.02059)
 * [arXiv 2022] **Collaboration-Aware Graph Convolutional Networks for Recommendation Systems** [[Paper]](https://arxiv.org/abs/2207.06221)[[Code]](https://github.com/YuWVandy/CAGCN)
 <br/><br/>
-* [NeurIPS 2022] **Ordered Subgraph Aggregation Networks**  [[Paper]](https://arxiv.org/abs//2206.11168)[[Code]](https://github.com/beabevi/sun)
+* [NeurIPS 2022] **Ordered Subgraph Aggregation Networks**  [[Paper]](https://arxiv.org/abs//2206.11168)
 * [NeurIPS 2022] **Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**  [[Paper]](https://arxiv.org/abs/2206.11140)[[Code]](https://github.com/beabevi/sun)
 * [NeurIPS 2022] **How Powerful are K-hop Message Passing Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2205.13328)[[Code]](https://github.com/JiaruiFeng/KP-GNN)
 * [NeurIPS 2022] **A Practical, Progressively-Expressive GNN**  [[Paper]](https://openreview.net/forum?id=WBv9Z6qpA8x)[[Code]](https://github.com/LingxiaoShawn/KCSetGNN)
