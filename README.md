@@ -30,6 +30,7 @@ Survey
 
 2021
 ----------
+* [NeurIPS 2021] **DropGNN: Random Dropouts Increase the Expressiveness of Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2111.06283)[[Code]](https://github.com/karolismart/dropgnn)
 * [NeurIPS 2021] **Nested Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2110.13197)[[Code]](https://github.com/muhanzhang/nestedgnn)
 * [NeurIPS 2021] **Decoupling the Depth and Scope of Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2201.07858)[[Code]](https://github.com/facebookresearch/shaDow_GNN)
 * [NeurIPS 2021] **Weisfeiler and Lehman Go Cellular: CW Networks** [[Paper]](https://arxiv.org/abs/2106.12575)[[Code]](https://github.com/twitter-research/cwn)
