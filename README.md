@@ -12,6 +12,16 @@ Survey
 * [arXiv 2022] **Theory of Graph Neural Networks: Representation and Learning**  [[Paper]](https://arxiv.org/abs/2112.09992)
 
 
+2023
+----------
+* [ICLR 2023] **Rethinking the Expressive Power of GNNs via Graph Biconnectivity**  [[Paper]](https://openreview.net/forum?id=r9hNv76KoT3)
+* [ICLR 2023] **Graph Neural Networks for Link Prediction with Subgraph Sketching**  [[Paper]](https://openreview.net/forum?id=m1oqEOAozQU)
+* [ICLR 2023] **On Representing Linear Programs by Graph Neural Networks**  [[Paper]](https://openreview.net/forum?id=cP2QVK-uygd)
+* [ICLR 2023] **Boosting the Cycle Counting Power of Graph Neural Networks with I<sup>2</sup>-GNNs**  [[Paper]](https://openreview.net/forum?id=kDSmxOspsXQ)
+* [ICLR 2023] **Cycle to Clique (Cy2C) Graph Neural Network: A Sight to See beyond Neighborhood Aggregation**  [[Paper]](https://openreview.net/forum?id=7d-g8KozkiE)
+* [ICLR 2023] **Agent-based Graph Neural Networks**  [[Paper]](https://openreview.net/forum?id=8WTAh0tj2jC)
+* [ICLR 2023] **A New Hierarchy of Expressivity for Graph Neural Networks**  [[Paper]](https://openreview.net/forum?id=5cAI0qXxyv)
+
 2022
 ----------
 * [arXiv 2022] **Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2206.02059)
