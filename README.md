@@ -21,6 +21,7 @@ Survey
 * [ICLR 2023] **Cycle to Clique (Cy2C) Graph Neural Network: A Sight to See beyond Neighborhood Aggregation**  [[Paper]](https://openreview.net/forum?id=7d-g8KozkiE)
 * [ICLR 2023] **Agent-based Graph Neural Networks**  [[Paper]](https://openreview.net/forum?id=8WTAh0tj2jC)
 * [ICLR 2023] **A New Hierarchy of Expressivity for Graph Neural Networks**  [[Paper]](https://openreview.net/forum?id=5cAI0qXxyv)
+* [ICML 2023] **On the Expressive Power of Geometric Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2301.09308)
 
 2022
 ----------
