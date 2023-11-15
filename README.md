@@ -63,6 +63,7 @@ Survey
 * [NeurIPS 2020] **Building Powerful and Equivariant Graph Neural Networks with Structural Message-Passing** [[Paper]](https://arxiv.org/abs/2006.15107)[[Code]](https://github.com/cvignac/SMP)
 * [ICLR 2020] **What Graph Neural Networks Cannot Learn: Depth vs Width** [[Paper]](https://arxiv.org/abs/1907.03199)
 * [IJCAI 2020] **Coloring Graph Neural Networks for Node Disambiguation** [[Paper]](https://arxiv.org/abs/1912.06058)
+* [IJCAI 2020] **Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation** [[Paper]](https://arxiv.org/abs/1907.02204)
 
 2019
 ----------
